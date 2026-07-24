@@ -1,0 +1,30 @@
+# Cartwheel
+
+> Cartwheel is a generative motion platform for games, film & TV, advertising, and robotics — a new way to animate 3D characters from video-to-motion and to pose and render characters in any visual style. Product is delivered as a hosted web studio; there is no public developer/REST API at this time.
+
+## Product
+- [Cartwheel home](https://getcartwheel.com/home): Generative motion platform overview.
+- [Cartwheel Studio (web app)](https://studio.getcartwheel.com): The hosted animation studio.
+- [Company](https://getcartwheel.com/company): About Cartwheel.
+
+## Docs
+- [Documentation](https://docs.getcartwheel.com/): End-user help and guides (Docusaurus).
+- [Getting Started — Creating your first motion](https://docs.getcartwheel.com/docs/getting-started/introduction): Video-to-motion walkthrough.
+- [Posing characters](https://docs.getcartwheel.com/docs/posing-characters/introduction): Pose and render characters as images.
+- [Downloading animations & formats](https://docs.getcartwheel.com/docs/integrating-cartwheel/download-formats): File formats and pipeline integration.
+- [Uploading custom characters](https://docs.getcartwheel.com/docs/custom-characters/upload): Supported character file formats.
+
+## Blog
+- [Cartwheel Blog](https://docs.getcartwheel.com/blog): Product announcements (RSS: https://docs.getcartwheel.com/blog/rss.xml).
+
+## Account
+- [Sign up](https://getcartwheel.com/sign-up)
+- [Sign in](https://getcartwheel.com/login)
+
+## Support
+- [Discord community](https://discord.gg/TQS278evHH)
+- Email: support@getcartwheel.com
+
+## Legal
+- [Terms & Conditions](https://getcartwheel.com/terms-of-use)
+- [Privacy Policy](https://getcartwheel.com/privacy-policy)
